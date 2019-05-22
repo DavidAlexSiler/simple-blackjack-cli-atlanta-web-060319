@@ -56,7 +56,7 @@ def runner
    new_total = card_total
    display_card_total(new_total)
   end
-end_game(card_total)
+end_game(new_total)
   
   
 end
